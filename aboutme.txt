@@ -1,1 +1,12 @@
-# About Me
+Student Name: Keith Russel Lacuna
+Course: Bachelor of Science in Information Technology
+Section: CCS066
+
+Goals in Learning Application Development:
+- Learn web development.
+- Learn mobile application development.
+- Build real-world software projects.
+
+Additional Information:
+- Interested in software development and networking.
+- Aspires to become a software developer or network engineer.
